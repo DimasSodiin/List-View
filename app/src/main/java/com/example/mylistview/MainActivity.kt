@@ -1,11 +1,21 @@
 package com.example.mylistview
 
 import android.content.res.TypedArray
+<<<<<<< HEAD
 import android.os.Bundle
 import android.widget.AdapterView
 import android.widget.ListView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+=======
+import android.net.VpnService.prepare
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import android.widget.AdapterView
+import android.widget.ArrayAdapter
+import android.widget.ListView
+import android.widget.Toast
+>>>>>>> fdbfb6b9df53a69e3c1a439a78ff276452f064f3
 
 class MainActivity : AppCompatActivity() {
 
