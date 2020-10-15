@@ -4,35 +4,41 @@
     <string name="lorem">a i u e o</string>
 
     <string-array name="data_name">
-        <item>Egel</item>
-        <item>Fajar</item>
-        <item>Kholik</item>
-        <item>Lana</item>
-        <item>Pei</item>
-        <item>Rangga</item>
-        <item>unyek</item>
-        <item>Zaky</item>
+        <item>Kaos Merah</item>
+        <item>Sepatu Hitam</item>
+        <item>Celana Training</item>
+        <item>Kaos Puma</item>
+        <item>Sepatu Abu-abu</item>
+        <item>Baju Puma Hitam</item>
+        <item>Kaos Kaki</item>
+        <item>Jam Tangan</item>
+        <item>Jam Tangan Roadster</item>
+        <item>Sepatu Hitam</item>
     </string-array>
 
     <string-array name="data_description">
-        <item>anak keranji</item>
-        <item>anak kotayasa</item>
-        <item>anak ajibarang</item>
-        <item>anak kotayasa</item>
-        <item>pro player valorant</item>
-        <item>naks arca</item>
-        <item>bacot nambah damage</item>
-        <item>anak nolep</item>
+        <item>Terdapat ukuran S/M/L</item>
+        <item>Terdapat ukuran 32 sampai 42</item>
+        <item>Terdapat ukuran S/M/L</item>
+        <item>Terdapat ukuran M/L</item>
+        <item>Terdapat ukuran 33 sampai 40</item>
+        <item>Terdapat ukuran S/M/L/XL</item>
+        <item>Beli 1 pasang dapat 2</item>
+        <item>Limited Edition</item>
+        <item>Produk Baru</item>
+        <item>Produk Baru</item>
     </string-array>
 
     <array name="data_photo">
-        <item>@drawable/egel</item>
-        <item>@drawable/fajar</item>
-        <item>@drawable/kholik</item>
-        <item>@drawable/lana</item>
-        <item>@drawable/pei</item>
-        <item>@drawable/rangga</item>
-        <item>@drawable/unyek</item>
-        <item>@drawable/zaky</item>
+        <item>@drawable/product1</item>
+        <item>@drawable/product2</item>
+        <item>@drawable/product3</item>
+        <item>@drawable/product4</item>
+        <item>@drawable/product5</item>
+        <item>@drawable/product6</item>
+        <item>@drawable/product7</item>
+        <item>@drawable/product8</item>
+        <item>@drawable/product9</item>
+        <item>@drawable/product10</item>
     </array>
 </resources>
